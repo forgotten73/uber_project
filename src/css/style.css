@@ -1021,7 +1021,7 @@ footer a:hover {
             order: 3;
   }
   .footer_wrapper > div:nth-child(2) {
-    width: 100%;
+    width: 285px;
     -webkit-box-ordinal-group: 2;
         -ms-flex-order: 1;
             order: 1;
@@ -1053,7 +1053,7 @@ footer a:hover {
         align-self: center;
     -ms-flex-wrap: wrap;
         flex-wrap: wrap;
-    width: 90%;
+    width: 249px;
     margin-top: 0;
     margin: 0 -5px;
   }
